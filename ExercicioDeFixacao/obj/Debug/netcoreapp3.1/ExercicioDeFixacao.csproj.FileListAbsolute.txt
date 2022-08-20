@@ -1,0 +1,14 @@
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.exe
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.deps.json
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.json
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.dev.json
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csproj.AssemblyReference.cache
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfoInputs.cache
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfo.cs
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+D:\Curso C#\Exercicios\Capítulo 6\Matrizes\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.genruntimeconfig.cache
